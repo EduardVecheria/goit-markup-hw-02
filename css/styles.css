@@ -79,7 +79,7 @@ a {text-decoration: none;}
 
 .teams{background-color: #F4F4FD;}    
 
-.title-teams{font-weight: 700;
+.title-big{font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -87,7 +87,7 @@ a {text-decoration: none;}
     color:#2E2F42;
     text-transform: capitalize}    
 
-.title-portfolio{font-weight: 500;
+.title-text{font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
