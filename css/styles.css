@@ -29,10 +29,13 @@ a {text-decoration: none;}
         color: #404bbf;}
 
 .addre{font-style: normal}
+
 .address-link{
-    letter-spacing: 0.02em
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     font-style: normal;
     color: #434455;}
+
 .address-link:hover, .address-link:focus {
     color: #404bbf;}
 
